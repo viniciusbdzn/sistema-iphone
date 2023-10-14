@@ -1,0 +1,13 @@
+package iphone.telefone;
+
+public class AparelhoTelefonico {
+	private void ligar() {
+		System.out.println("Fazendo ligação!");
+	}
+	private void atender() {
+		System.out.println("Atendendo ligação!");
+	}
+	private void iniciarCorreioVoz() {
+		System.out.println("Iniciando correio de voz!");
+	}
+}

@@ -1,0 +1,35 @@
+package iphone;
+
+import iphone.navegador.Navegador;
+import iphone.reprodutor.ReprodutorMusical;
+import iphone.telefone.AparelhoTelefonico;
+
+public class IphoneApp implements Navegador, ReprodutorMusical, AparelhoTelefonico{
+	//métodos do AparelhoTelefonico
+	@Override
+	public void ligar() {
+		System.out.println("Iphone fazendo ligação!");
+	}
+	@Override
+	public void atender() {
+		System.out.println("Iphone atendendo ligação!");
+	}
+	@Override
+	public void iniciarCorreioVoz() {
+		System.out.println("Iphone iniciando correio de voz!");
+	}
+	
+	//métodos do ReprodutorMusical
+	@Override
+	public void tocar() {
+		System.out.println("Iphone reproduzindo música!");
+	}
+	@Override
+	public void pausar() {
+		System.out.println("Iphone pausando música!");
+	}
+	@Override
+	public void selecionarMusica() {
+		// TODO Auto-generated method stub
+	}
+}

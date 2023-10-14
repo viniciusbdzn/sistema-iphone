@@ -1,0 +1,13 @@
+package iphone;
+
+import iphone.navegador.Navegador;
+import iphone.reprodutor.ReprodutorMusical;
+import iphone.telefone.AparelhoTelefonico;
+
+public class IphoneApp implements Navegador, ReprodutorMusical, AparelhoTelefonico{
+	public static void main(String[] args) {
+	
+		liga();
+		
+	}
+}

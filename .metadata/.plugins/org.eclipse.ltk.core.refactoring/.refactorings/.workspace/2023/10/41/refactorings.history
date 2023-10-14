@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Delete resource &apos;git_sistema-iphone&apos;" deleteContents="true" description="Delete resource &apos;git_sistema-iphone&apos;" element1="/git_sistema-iphone" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1697315482108"/>
+</session>

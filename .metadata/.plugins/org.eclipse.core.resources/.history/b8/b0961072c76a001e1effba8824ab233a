@@ -1,0 +1,7 @@
+package iphone.telefone;
+
+public class AparelhoTelefonico {
+	private void ligar() {
+		System.out.println("Fazendo ligação!");
+	}
+}

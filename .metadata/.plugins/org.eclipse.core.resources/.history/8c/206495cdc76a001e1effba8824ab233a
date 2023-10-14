@@ -1,0 +1,7 @@
+package iphone.navegador;
+
+public class Navegador {
+	private void exibirPagina() {
+		System.out.println("Exibindo página!");
+	}
+}

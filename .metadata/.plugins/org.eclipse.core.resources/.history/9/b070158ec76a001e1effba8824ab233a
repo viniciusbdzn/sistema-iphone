@@ -1,0 +1,7 @@
+package iphone.reprodutor;
+
+public class ReprodutorMusical {
+	private void tocar() {
+		System.out.println("Tocando música!");
+	}
+}

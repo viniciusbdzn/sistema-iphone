@@ -1,0 +1,15 @@
+package iphone;
+
+public class Main {
+	public static void main(String[] args) {
+		IphoneApp iphoneApp = new IphoneApp();
+		
+		iphoneApp.ligar();
+		iphoneApp.atender();
+		iphoneApp.iniciarCorreioVoz();
+		
+		iphoneApp.tocar();
+		iphoneApp.pausar();
+		iphoneApp.selecionarMusica();
+	}
+}

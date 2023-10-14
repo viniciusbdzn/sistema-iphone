@@ -1,0 +1,13 @@
+package iphone.reprodutor;
+
+public interface ReprodutorMusical {
+	private void tocar() {
+		System.out.println("Tocando música!");
+	}
+	private void pausar() {
+		System.out.println("Pausando música!");
+	}
+	private void selecionarMusica() {
+		System.out.println("Selecionando música!");
+	}
+}
