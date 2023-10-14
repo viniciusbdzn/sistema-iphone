@@ -19,7 +19,8 @@ Com base no vídeo de lançamento do iPhone conforme link abaixo, elabore em uma
 * Aparelho Telefônico: ligar, atender, iniciarCorrerioVoz
 * Navegador na Internet: exibirPagina, adicionarNovaAba, atualizarPagina
 
-![sistema-iphone](https://github.com/viniciusbdzn/sistema-iphone/assets/95323715/5bc79d56-89e7-4353-9deb-bf8f2fa20569)
+![sistema-iphone](https://github.com/viniciusbdzn/sistema-iphone/assets/95323715/e303702b-a6af-4060-ba7e-d0642ffcced6)
+
 
 
 
